@@ -20,3 +20,5 @@ for tag only
 
 Выполняю задание
 Надо сделать коммит add first half of my favorite song
+Выполняю задание 
+Надо сделать коммит finish my song
