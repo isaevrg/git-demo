@@ -17,3 +17,6 @@
 12 feature
 
 for tag only
+
+Выполняю задание
+Надо сделать коммит add first half of my favorite song
